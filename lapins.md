@@ -1,5 +1,3 @@
-(Due to technical issues, the search service is temporarily unavailable.)
-
 Voici un guide **ultra-détaillé** pour démarrer et gérer un **élevage de lapins** (cuniculture), adapté aux petits et moyens producteurs, avec des techniques modernes, des astuces de gestion sanitaire, et des calculs de rentabilité. Ce processus inclut des solutions pour les climats tropicaux comme Madagascar.
 
 ---
